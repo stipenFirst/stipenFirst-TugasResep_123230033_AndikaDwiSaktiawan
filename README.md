@@ -1,6 +1,6 @@
 # TugasResep_123230033_AndikaDwiSaktiawan
 
-## TugasResep adalah aplikasi mobile berbasis Flutter yang digunakan untuk menjelajahi berbagai resep makanan dari 
+## TugasResep adalah aplikasi mobile berbasis Flutter 
 
 ## Steps to Clone and Run the Project
 
